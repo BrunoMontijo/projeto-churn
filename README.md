@@ -67,13 +67,13 @@ Para reproduzir as análises e o modelo deste projeto:
 
 Clone este repositório.
 
-Certifique-se de ter o arquivo WA_Fn-UseC_-Telco-Customer-Churn.csv na mesma pasta do notebook.
+Certifique-se de ter o arquivo "WA_Fn-UseC_-Telco-Customer-Churn.csv" na mesma pasta do notebook.
 
 Instale as dependências necessárias:
 
 pip install -r requirements.txt
 
-Execute o notebook analise_churn.ipynb.
+Execute o notebook "analise_churn.ipynb".
 
 ## ✒️ Autor
 
