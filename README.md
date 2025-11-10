@@ -59,7 +59,21 @@ Abaixo, um exemplo dos clientes com maior probabilidade de evasão identificados
 | Cliente B     | 84.6%                      | Cancelou (Sim) |
 | Cliente C     | 84.5%                      | Ativo (Não)    |
 
-⚠️ Nota: O Cliente C, apesar de ainda estar ativo, foi identificado com altíssimo risco (84.5%) e deve ser priorizado para ações de retenção.
+Nota: O Cliente C, apesar de ainda estar ativo, foi identificado com altíssimo risco (84.5%) e deve ser priorizado para ações de retenção.
+
+## 🏁 Como Reproduzir este Projeto
+
+Para reproduzir as análises e o modelo deste projeto:
+
+Clone este repositório.
+
+Certifique-se de ter o arquivo WA_Fn-UseC_-Telco-Customer-Churn.csv na mesma pasta do notebook.
+
+Instale as dependências necessárias:
+
+pip install -r requirements.txt
+
+Execute o notebook analise_churn.ipynb.
 
 ## ✒️ Autor
 
