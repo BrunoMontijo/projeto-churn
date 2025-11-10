@@ -20,7 +20,7 @@ Linguagem: Python 3
 
 Bibliotecas: Pandas, Matplotlib, Seaborn, Scikit-Learn
 
-Ambiente: Google Colab / Jupyter Notebook
+Ambiente: Google Colab
 
 🔍 Análise Exploratória (Principais Insights)
 
